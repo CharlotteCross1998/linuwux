@@ -1,6 +1,6 @@
 # Nyaa~
 ---
-[Fedowa](fedowa.png)
-[Gentchu](gentchu.png)
-[Nyarch](nyarch.png)
-[Uwuntu](uwuntu.png)
+![Fedowa](fedowa.png)
+![Gentchu](gentchu.png)
+![Nyarch](nyarch.png)
+![Uwuntu](uwuntu.png)
