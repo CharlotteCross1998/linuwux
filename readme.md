@@ -12,5 +12,6 @@
 ![Owopensuse](owopensuse.png)
 ![OwopenBSD](owopenbsd.jpg)
 ![Nwixowos](nwixowos.png)
-![Ewndeavourowos](ewndeavourowos.png.png)
-![Arcowolinux.png](arcowowlinux.png)
+![Ewndeavourowos](ewndeavourowos.png)
+![Arcowolinux.png](arcowolinux.png)
+
