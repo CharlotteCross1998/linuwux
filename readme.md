@@ -13,5 +13,5 @@
 ![OwopenBSD](owopenbsd.jpg)
 ![Nwixowos](nwixowos.png)
 ![Ewndeavourowos](ewndeavourowos.png)
-![Arcowolinux.png](arcowolinux.png)
-![uwuBedrockLinux.png](uwuBedrockLinux.png)
+![Arcowolinux](arcowolinux.png)
+![bedowocklinux](bedowocklinux.png)
