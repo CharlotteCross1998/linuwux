@@ -16,3 +16,4 @@
 ![Arcowolinux](arcowolinux.png)
 ![bedowocklinux](bedowocklinux.png)
 ![fweebsd](fweebsd.png)
+![Nyartixlinux](nyartixlinux.svg)
