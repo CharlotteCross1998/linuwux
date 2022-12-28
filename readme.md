@@ -17,3 +17,4 @@
 ![bedowocklinux](bedowocklinux.png)
 ![fweebsd](fweebsd.png)
 ![Nyartixlinux](nyartixlinux.svg)
+![manjarouwu](manjarouwu.png)
