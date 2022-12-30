@@ -125,6 +125,8 @@ Source: https://github.com/CharlotteCross1998/linuwux/pull/5
 
 ## NyartixLinux
 ![Nyartixlinux](nyartixlinux.svg)
+
+[Source](https://svgshare.com/s/Uz_)
 ---
 
 ## Manjaruwu
