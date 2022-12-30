@@ -1,6 +1,9 @@
 # Nyaa~
----
+
 Linuwux is a collection of uwu images of distros.
+
+# Contributing
+Please read [Contributing.MD](contributing.md)
 
 # Contents
 1. [Fedowa](#fedowa)
@@ -14,7 +17,7 @@ Linuwux is a collection of uwu images of distros.
 9. [Powopowos](#powopowos)
 10. [Ewndeavourowos](#ewndeavourowos)
 11. [ArcowoLinux](#arcowolinux)
-12. [Bedowock](#Bedowock)
+12. [Bedowock](#bedowock)
 13. [FweeBSD](#fweebsd)
 14. [NyartixLinux](#nyartixlinux)
 
