@@ -133,3 +133,7 @@ Source: https://github.com/CharlotteCross1998/linuwux/pull/5
 ![manjarouwu](manjarouwu.png)
 Source: https://github.com/CharlotteCross1998/linuwux/pull/11
 ---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=charlottecross1998/linuwux&type=Date)](https://star-history.com/#charlottecross1998/linuwux&Date)
