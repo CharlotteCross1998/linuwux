@@ -90,7 +90,7 @@ Source: https://github.com/CharlotteCross1998/linuwux/pull/10
 ---
 
 ## OwOpenBSD
-![OwopenBSD](owopenbsd.jpg)
+![OwopenBSD](owopenbsd.png)
 ---
 
 ## Nwixowos
@@ -109,7 +109,7 @@ License: CC-BY license
 
 ## Arcowolinux
 ![Arcowolinux](arcowolinux.png)
-
+---
 
 ## Bedowock
 ![bedowocklinux](bedowocklinux.png)
@@ -137,3 +137,4 @@ Source: https://github.com/CharlotteCross1998/linuwux/pull/11
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=charlottecross1998/linuwux&type=Date)](https://star-history.com/#charlottecross1998/linuwux&Date)
+---
