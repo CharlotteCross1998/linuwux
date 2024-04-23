@@ -20,7 +20,7 @@ Please read [Contributing.MD](contributing.md)
 12. [Bedowock](#bedowock)
 13. [FweeBSD](#fweebsd)
 14. [NyartixLinux](#nyartixlinux)
-15. [Manjaruwu](#manjaruwu)
+15. [Nyanjaro](#nyanjaro)
 
 
 ## Fedowa
@@ -129,8 +129,8 @@ Source: https://github.com/CharlotteCross1998/linuwux/pull/5
 [Source](https://svgshare.com/s/Uz_)
 ---
 
-## Manjaruwu
-![manjarouwu](manjarouwu.png)
+## Nyanjaro
+![nyanjaro](nyanjaro.png)
 Source: https://github.com/CharlotteCross1998/linuwux/pull/11
 ---
 
