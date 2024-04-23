@@ -91,6 +91,7 @@ Source: https://github.com/CharlotteCross1998/linuwux/pull/10
 
 ## OwOpenBSD
 ![OwopenBSD](owopenbsd.png)
+Source: https://github.com/CharlotteCross1998/linuwux/pull/13
 ---
 
 ## Nwixowos
