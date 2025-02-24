@@ -128,7 +128,8 @@ Source: https://github.com/CharlotteCross1998/linuwux/pull/5
 ## OwOFreeBSD 
 ![OwOFreebsd](owofreebsd.svg)
 
-Source: [https://github.com/CharlotteCross1998/linuwux/pull/5](https://www.redbubble.com/i/sticker/OwO-Neko-FreeBSD-Logo-Technology-by-internet-joshi/154630443.EJUG5)
+Source: [Source](https://www.redbubble.com/i/sticker/OwO-Neko-FreeBSD-Logo-Technology-by-internet-joshi/154630443.EJUG5)
+License: Unknown
 ---
 ## NyartixLinux
 ![Nyartixlinux](nyartixlinux.svg)
